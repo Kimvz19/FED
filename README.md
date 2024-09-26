@@ -34,8 +34,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
-
-  ### Je opdracht:
+  
+ ### Je opdracht:
   Website is Apple, link naar website : 
 
   <a href="https://www.apple.com/nl/shop/accessories/all">Accessoires</a>
@@ -44,15 +44,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Accessoires page
-  <img src="readme-images/accessoires-1.png" width="375px" alt="Accesoires page 1">
-  <img src="readme-images/accessoires-2.png" width="375px" alt="Accesoires page 2">
-  <img src="readme-images/accessoires-3.png" width="375px" alt="Accesoires page 3">
+  <img src="readme-images/accessoires-1.png" width="200px" alt="Accesoires page 1">
+  <img src="readme-images/accessoires-2.png" width="200px" alt="Accesoires page 2">
+  <img src="readme-images/accessoires-3.png" width="200px" alt="Accesoires page 3">
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Entertainment page
-  <img src="readme-images/entertainment-1.png" width="375px" alt="Entertainment page 1">
-  <img src="readme-images/entertainment-2.png" width="375px" alt="Entertainment page 2">
+  <img src="readme-images/entertainment-1.png" width="200px" alt="Entertainment page 1">
+  <img src="readme-images/entertainment-2.png" width="200px" alt="Entertainment page 2">
  
 </details>
 
