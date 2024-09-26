@@ -44,15 +44,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Accessoires page
-  <img src="readme-images/accessoires-1" width="375px" alt="Accesoires page 1">
-  <img src="readme-images/accessoires-2" width="375px" alt="Accesoires page 2">
-  <img src="readme-images/accessoires-3" width="375px" alt="Accesoires page 3">
+  <img src="readme-images/accessoires-1.png" width="375px" alt="Accesoires page 1">
+  <img src="readme-images/accessoires-2.png" width="375px" alt="Accesoires page 2">
+  <img src="readme-images/accessoires-3.png" width="375px" alt="Accesoires page 3">
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Entertainment page
-  <img src="readme-images/entertainment-1" width="375px" alt="Entertainment page 1">
-  <img src="readme-images/entertainment-2" width="375px" alt="Entertainment page 2">
+  <img src="readme-images/entertainment-1.png" width="375px" alt="Entertainment page 1">
+  <img src="readme-images/entertainment-2.png" width="375px" alt="Entertainment page 2">
  
 </details>
 
