@@ -39,7 +39,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Website is Apple, link naar website : 
 
   <a href="https://www.apple.com/nl/shop/accessories/all">Accessoires</a>
-  <a href="https://www.apple.com/nl/services/"></a>
+  <a href="https://www.apple.com/nl/services/">Entertainment</a>
   
 
   #### Screenshot(s) van de eerste pagina (small screen): 
@@ -65,6 +65,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  <ul>
+  <li>Bevinding 1: </li>
+  <li>Bevinding 2: </li>
+  <li>Bevinding 3: </li>
+  </ul>
 
 </details>
 
