@@ -82,20 +82,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### de hele pagina: 
   
-  <img src="readme-images/breakdown-schetsen/breakdown-accessoires-2" width="200px" alt="breakdown accessoires 2">
+  <img src="readme-images/breakdown-schetsen/breakdown-accessoires-2.png" width="200px" alt="breakdown accessoires 2">
   
-  <img src="readme-images/breakdown-schetsen/breakdown-entertainment" width="200px" alt="breakdown entertainment">
+  <img src="readme-images/breakdown-schetsen/breakdown-entertainment.png" width="200px" alt="breakdown entertainment">
   
-    <img src="readme-images/breakdown-schetsen/breakdown-entertainment-2" width="200px" alt="breakdown entertainment 2">
+    <img src="readme-images/breakdown-schetsen/breakdown-entertainment-2.png" width="200px" alt="breakdown entertainment 2">
     
-    <img src="readme-images/breakdown-schetsen/breakdown" width="200px" alt="breakdown">
+    <img src="readme-images/breakdown-schetsen/breakdown.png" width="200px" alt="breakdown">
   
   
 
   ### dynamisch deel - header + footer: 
-    <img src="readme-images/breakdown-schetsen/breakdown-footer" width="200px" alt="breakdown footer">
+    <img src="readme-images/breakdown-schetsen/breakdown-footer.png" width="200px" alt="breakdown footer">
     
-    <img src="readme-images/breakdown-schetsen/breakdown-header" width="200px" alt="breakdown header">
+    <img src="readme-images/breakdown-schetsen/breakdown-header.png" width="200px" alt="breakdown header">
 
 
 </details>
